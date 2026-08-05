@@ -1,0 +1,4 @@
+@WebApiLab.API_HostAddress = http://localhost:5239
+
+GET {{{{WebApiLab.API_HostAddress}}}}/weatherforecast/
+Accept: application/json
