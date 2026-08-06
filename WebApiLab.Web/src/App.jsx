@@ -9,11 +9,11 @@ function App() {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await fetch('http://localhost:5173/api/People');
+        const response = await fetch('http://localhost:5239/People');
 
         if (!response.ok)
         {
-          throw new Error('HTTP error! status: ${response.status}');
+           throw new Error(`HTTP error! status: ${response.status}`);
         }
 
         const result = await response.json();

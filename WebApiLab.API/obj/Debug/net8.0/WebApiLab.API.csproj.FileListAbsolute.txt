@@ -34,3 +34,4 @@ C:\Users\ginag\WebApiLab\WebApiLab.API\obj\Debug\net8.0\refint\WebApiLab.API.dll
 C:\Users\ginag\WebApiLab\WebApiLab.API\obj\Debug\net8.0\WebApiLab.API.pdb
 C:\Users\ginag\WebApiLab\WebApiLab.API\obj\Debug\net8.0\WebApiLab.API.genruntimeconfig.cache
 C:\Users\ginag\WebApiLab\WebApiLab.API\obj\Debug\net8.0\ref\WebApiLab.API.dll
+C:\Users\ginag\WebApiLab\WebApiLab.API\obj\Debug\net8.0\WebApiLab.API.sourcelink.json
